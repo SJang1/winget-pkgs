@@ -1,0 +1,11 @@
+# Created using wingetcreate
+
+PackageIdentifier: CCP.EveLauncher
+PackageVersion: 1902445
+PackageLocale: en-US
+Publisher: CCP
+PackageName: EveLauncher
+License: Copyright ⓒ CCP
+ShortDescription: Eve Online Launcher
+ManifestType: defaultLocale
+ManifestVersion: 1.0.0
